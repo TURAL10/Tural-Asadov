@@ -9,10 +9,10 @@ I've been programming for 2 years now and finally found myself as a full-stack d
 * 🌍  I'm based in Baku/Azerbaijan
 * ✉️  You can contact me at [turalesedov9@gmail.com](mailto:turalesedov9@gmail.com)
 * ✉   My Personal Portfolio Website <a href="#" target="_blank">Go to site</a>
-* 🧠  I'm learning React.js
+
 
 <a href="https://www.github.com/TURAL10" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Nijat-Mansimov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/TURAL10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
